@@ -25,3 +25,10 @@ I am interested in tracking food costs and nutritional information for recipes t
   - [ ] return ingredient cost from food database api (instacart?)
   - [ ] aggregate nutritional and food cost info for entire recipe
   - [ ] calculate nutritional and food cost info per serving of recipe
+
+## resources
+
+- https://hackersandslackers.com/scraping-urls-with-beautifulsoup/
+- https://hackingandslacking.com/scrape-structured-data-with-python-and-extruct-ee1305493307
+- https://realpython.com/python-web-scraping-practical-introduction/
+- https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
