@@ -19,6 +19,8 @@ I am interested in tracking food costs and nutritional information for recipes t
 
 - start small
   - [ ] build a program that can read in a recipe from provided url
+    - [x] beautifulsoup and requests to scrape
+    - [ ] parse recipe ingredients into readable format
   - [ ] return ingredient nutritional information from food database api
   - [ ] return ingredient cost from food database api (instacart?)
   - [ ] aggregate nutritional and food cost info for entire recipe
