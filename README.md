@@ -32,3 +32,4 @@ I am interested in tracking food costs and nutritional information for recipes t
 - https://hackingandslacking.com/scrape-structured-data-with-python-and-extruct-ee1305493307
 - https://realpython.com/python-web-scraping-practical-introduction/
 - https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
+- https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924
